@@ -1,2 +1,8 @@
-﻿int i = 10;
-int j = 20;
+﻿int j = 5;
+for (int i = 0; i < j; i++)
+{
+    Console.WriteLine($"Mohammad Oghbatalab{i}");
+}
+
+
+
